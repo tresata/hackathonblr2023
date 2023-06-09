@@ -11,7 +11,6 @@ Table of Content:
 * [IMPORTANT INFORMATION](#important-information)
 * [SLACK](#slack)
 * [COMMUNITY](#community)
-* [Getting Started](#getting-started)
 * [Tresata Software](#tresata-software)
 * [Data Dictionary](#data-dictionary)
 * [Data](#data)
@@ -21,28 +20,27 @@ Table of Content:
 
 ## IMPORTANT INFORMATION
 
-* Please make sure you spread out on all the tables. You can login to the WeWork wifi. <wifi-details>
-* Some more important information.
-
-## SLACK
-
-Please make sure you connect with your fellow hackers on [SLACK](https://join.slack.com/share/enQtNTM2OTEwMTI1MjQ4Mi0xMmVkMDMwZmQzNWRiMTliMmFmMzk3ZmY1MDBlYmI4ZDRkYTQ2ZDliNzM1ODYzMDI5N2QyMWQyYmNjNmVmZGFk). You can also ask any questions here on any of the available channels.
-
-## COMMUNITY
-
-Please make sure to join our community on [COMMUNITY](https://community.tresata.com/t/welcome-hackers/409)
-
-## Getting Started
+* Please make sure you spread out around the ground floor. Make yourself comfortable. ('<br>') 
+* You can use the wifi : WeWork Guest
 
 #### Server & Login
 
-Please use the below Login information.Feel free to reach out to us for any additional information.
+Please use the below Login information for trek. Feel free to reach out to us for any additional information.
 
-username : hackblr
+username : hackblr (`<br>`)
 password : Enrich_LIfe4
 
-Click on the link below to access the profiling using trek on tides: 
+Click on the link below to access the profiling using trek on tides:
 [TIDES](https://ingress.tresata.com/hackathonblr2023/tides)
+ 
+
+## SLACK
+
+Please make sure you connect with your fellow hackers and us on [SLACK](https://join.slack.com/share/enQtNTM2OTEwMTI1MjQ4Mi0xMmVkMDMwZmQzNWRiMTliMmFmMzk3ZmY1MDBlYmI4ZDRkYTQ2ZDliNzM1ODYzMDI5N2QyMWQyYmNjNmVmZGFk). Feel free to post your doubts here.
+
+## COMMUNITY
+
+Please make sure to join our community on [COMMUNITY](https://community.tresata.com/t/welcome-hackers/409) to know more about tresata and hackBLR2023.
 
 
 ## Tresata Software
@@ -51,24 +49,27 @@ Click on the link below to access the profiling using trek on tides:
 
 Data Inventory Engine built specifically to catalog, profile and report data ontology, quality and format attributes for all data in Hadoop. TREK rapidly profiles and inventories “as-is” data stored in Hadoop across all rows and columns to create an informed view of all valuable enterprise data feeds stored in a single Hadoop cluster.
 
-Access the trek manual [here](link-here)
+Access the trek manual [here](https://github.com/tresata/hackathonblr2023/blob/main/TREK_MANUAL.pdf)
 
-TREK can be accessed via <https://ingress.tresata.com/hackathonblr2023/tides>
+TREK can be accessed [here](https://ingress.tresata.com/hackathonblr2023/tides)
 
-**Please DO NOT delete any dataset in  TREK since all teams share the same TREK instance.**
+**Please DO NOT delete any dataset in TREK since all teams share the same TREK instance.**
 
 ## Data Dictionary
 
-The data dictionary can be found [here](<insert-data-dictionary-link>).
+The data dictionary can be found [here](https://github.com/tresata/hackathonblr2023/blob/main/Data%20Dictionary%20HackathonBLR2023.xlsx).
 
 ## Data
 
-The data can be found [here](<insert-data-link>).
+The data can be found [here](https://github.com/tresata/hackathonblr2023/blob/main/datahackblr.csv).
 We have provided the data in the form of csv file.
 
 ## Problem Statement
 
-Click here to open the Problem Statemt file [here](<link>)
+Click here to open the Problem Statemt file [here](https://github.com/tresata/hackathonblr2023/blob/main/PROBLEM_STATEMENT.txt)
+
+There is a an additional data set provided [here](https://github.com/tresata/hackathonblr2023/blob/main/ART%20Center%20Statistics.xlsx). (`<br>`)
+This contains some demographic information related to ART centers where HIV patients receive treatment, gender enrollment and adherence to treatment.
 
 
 ## Submission
