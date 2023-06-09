@@ -1,7 +1,7 @@
 PROBLEM STATEMT - HACKATHONBLR 2023 
 
 
-Problem: The inadequate and untimely disbursement of funds for HIV-positive youth is impeding their ability to access crucial healthcare and support services.
+Problem: The inefficient (inadequate / untimely) disbursement of funds for HIV-positive youth is impeding their ability to access crucial healthcare and support services.
 
 Impact: HIV-positive youth face significant risks such as severe health complications and social stigma. The inefficient disbursement of funds exacerbates these challenges by limiting their access to essential healthcare and support services.
 
