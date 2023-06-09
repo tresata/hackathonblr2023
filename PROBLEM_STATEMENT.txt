@@ -1,0 +1,12 @@
+PROBLEM STATEMT - HACKATHONBLR 2023 
+
+
+Problem: The inadequate and untimely disbursement of funds for HIV-positive youth is impeding their ability to access crucial healthcare and support services.
+
+Impact: HIV-positive youth face significant risks such as severe health complications and social stigma. The inefficient disbursement of funds exacerbates these challenges by limiting their access to essential healthcare and support services.
+
+Scope: This problem statement seeks to generate innovative solutions to enhance funds disbursement for HIV-positive youth, thereby improving their timely access to necessary healthcare interventions and support services.
+
+Solution: Our objective is to develop a technologically advanced, user-friendly, cost-effective, and scalable solution that streamlines funds disbursement for HIV-positive youth. This solution will involve accurately identifying the specific funding requirements of each individual or groups of individuals, ensuring the efficient and timely delivery of services.
+
+
