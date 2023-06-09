@@ -3,9 +3,6 @@ Hackathon Bangalore 2023
 
 Welcome to hackathonBLR 2023!
 
-Download the kickoff deck for more information on the business problem, the hackathonBLR agenda, the data, and more! Find it in the data folder: <link-to-kick-off-pdf>
-<what to write here ?>
-
 Table of Content:
 
 * [IMPORTANT INFORMATION](#important-information)
@@ -20,7 +17,9 @@ Table of Content:
 
 ## IMPORTANT INFORMATION
 
-* Please make sure you spread out around the ground floor. Make yourself comfortable. ('<br>') 
+* You need to fork this repo and do a pullreq to get started. 
+* Generate the name which must consist your team number and once done with the hackathon don't forget to push everything !!!
+* Please make sure you spread out around the ground floor. Make yourself comfortable.  
 * You can use the wifi : WeWork Guest
 
 #### Server & Login
