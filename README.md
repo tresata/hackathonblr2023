@@ -26,7 +26,7 @@ Table of Content:
 
 Please use the below Login information for trek. Feel free to reach out to us for any additional information.
 
-username : hackblr (`<br>`)
+username : hackblr 
 password : Enrich_LIfe4
 
 Click on the link below to access the profiling using trek on tides:
@@ -67,7 +67,7 @@ We have provided the data in the form of csv file.
 
 Click here to open the Problem Statemt file [here](https://github.com/tresata/hackathonblr2023/blob/main/PROBLEM_STATEMENT.txt)
 
-There is a an additional data set provided [here](https://github.com/tresata/hackathonblr2023/blob/main/ART%20Center%20Statistics.xlsx). (`<br>`)
+There is a an additional data set provided [here](https://github.com/tresata/hackathonblr2023/blob/main/ART%20Center%20Statistics.xlsx). 
 This contains some demographic information related to ART centers where HIV patients receive treatment, gender enrollment and adherence to treatment.
 
 
