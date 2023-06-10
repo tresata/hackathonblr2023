@@ -17,7 +17,7 @@ Table of Content:
 
 ## IMPORTANT INFORMATION
 
-* You need to fork this repo and do a pullreq to get started. 
+* You need to fork this repo and the clone it to get started. Instructions will be shared with you. 
 * Generate the name which must comprise your team number and once done with the hackathon don't forget to push everything !!!
 * Please make sure you spread across the ground floor. Make yourself comfortable.  
 * You can use the wifi : WeWork Guest
