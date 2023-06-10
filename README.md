@@ -82,5 +82,5 @@ Feel free to submit your solution in any format of your choice - be it slides, v
 Tick-Tock - the clock is your ally so submit your solutions within the stipulated time in the designated google drive folder using the right naming convention
 Feel free to leverage the additional data that has been shared with you for more demographic insights
 Our squad of knowledge wizards are around. So, for any clarifications or doubts just give us a shout.
-Ready ? get set, Innovate!!!
+Ready? Get, Set, Innovate!!!
 
