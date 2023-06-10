@@ -18,7 +18,7 @@ Table of Content:
 ## IMPORTANT INFORMATION
 
 * You need to fork this repo and the clone it to get started. Instructions will be shared with you. 
-* Create a folder with your solution and presentation. Generate the name "<teamnumber>-hackathonblr2023" and once done submit everything on the google drive.
+* Create a folder with your solution and presentation. Generate the name "teamnumber-hackathonblr2023" and once done submit everything on the google drive.
 * Please make sure you spread across the ground floor. Make yourself comfortable.  
 * You can use the wifi : WeWork Guest
 
@@ -77,7 +77,7 @@ This contains some demographic information related to ART centers (Antiretrovira
 ## Submission
 
 This is the submission drive for presentation [here](https://drive.google.com/drive/folders/1EpcPrg2UCY1oUkwKAh8tvgaQOUtoRSxd)
-Generate the name "<teamnumber>-hackathonblr2023".
+Generate the name "teamnumber-hackathonblr2023".
 
 Feel free to submit your solution in any format of your choice - be it slides, visual charts, multimedia, documents or just plain text!!...So get creative & think outside the box!
 Tick-Tock - the clock is your ally so submit your solutions within the stipulated time in the designated google drive folder using the right naming convention
