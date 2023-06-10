@@ -17,7 +17,7 @@ Table of Content:
 
 ## IMPORTANT INFORMATION
 
-* You need to fork this repo and the clone it to get started. Instructions will be shared with you. 
+* You need to fork this repo and the clone it to get started. You need to create your branch "feat-<team-no>." Instructions will be shared with you. 
 * Generate the name which must comprise your team number and once done with the hackathon don't forget to push everything !!!
 * Please make sure you spread across the ground floor. Make yourself comfortable.  
 * You can use the wifi : WeWork Guest
@@ -27,7 +27,9 @@ Table of Content:
 Please use the Login information below for trek. Feel free to reach out to us for any additional information.
 
 username : hackblr 
-password : Enrich_LIfe4
+password : Enrich_Life4
+
+If you face any issues logging in, let us know. 
 
 Click on the link below to access profiling using trek on tides:
 [TIDES](https://ingress.tresata.com/hackathonblr2023/tides)
@@ -69,11 +71,12 @@ We have provided the data in the form of csv file.
 
 Click here to open the Problem Statement file [here](https://github.com/tresata/hackathonblr2023/blob/main/PROBLEM_STATEMENT.txt)
 
-There is a an additional data set provided [here](https://github.com/tresata/hackathonblr2023/blob/main/ART%20Center%20Statistics.xlsx). 
-This contains some demographic information related to ART centers where HIV patients receive treatment, gender enrollment and adherence to treatment.
-
+There is a an additional data set provided [here](https://github.com/tresata/hackathonblr2023/blob/main/ART%20Center%20Statistics.xlsx).This contains some demographic information related to ART centers where HIV patients receive treatment, gender enrollment and adherence to treatment.
+This contains some demographic information related to ART centers (Antiretroviral Treatment) where HIV patients receive treatment, gender enrollment and adherence to treatment.
 
 ## Submission
+
+This is the submission drive for presentation [here](https://drive.google.com/drive/folders/1EpcPrg2UCY1oUkwKAh8tvgaQOUtoRSxd)
 
 Feel free to submit your solution in any format of your choice - be it slides, visual charts, multimedia, documents or just plain text!!...So get creative & think outside the box!
 Tick-Tock - the clock is your ally so submit your solutions within the stipulated time in the designated google drive folder using the right naming convention
